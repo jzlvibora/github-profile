@@ -45,5 +45,12 @@
 
 <img src="https://media0.giphy.com/media/CjgNRG8CufDwA83jB6/giphy.gif?cid=ecf05e47py7rs2jsnirqk4rvs4ppuyufjbzmhgye8jpji3y9&rid=giphy.gif&ct=g"> -->
 
+### <b>🔥 My Stats : </b>
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jzlvibora&theme=tokyonight"/></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzlvibora&layout=compact&theme=tokyonight)](https://github.com/jzlvibora/github-readme-stats)
 </div>
+
+
 
