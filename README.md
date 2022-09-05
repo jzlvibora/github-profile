@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://64.media.tumblr.com/2aeb16c07c74d74e893287035fc30bb0/tumblr_pauzs2OHH01tes331o2_640.gifv" width="100">
+ <img src="https://media4.giphy.com/media/3o85xyGspig9UUbHc4/giphy.gif?cid=790b7611e835d53430a0ab12e7884e5849c4b4070102651c&rid=giphy.gif&ct=g" width="100">
 </div>
 
 <div id="badges">
