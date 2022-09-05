@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://giphy.com/gifs/fulifuli-pixel-art-dinosaur-3o85xyGspig9UUbHc4" width="100">
+ <img src="[https://giphy.com/gifs/fulifuli-pixel-art-dinosaur-3o85xyGspig9UUbHc4](https://64.media.tumblr.com/2aeb16c07c74d74e893287035fc30bb0/tumblr_pauzs2OHH01tes331o2_640.gifv)" width="100">
 </div>
 
 <div id="badges">
