@@ -51,5 +51,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzlvibora&layout=compact&theme=tokyonight)](https://github.com/jzlvibora/github-readme-stats)
 </div>
 
+ <style>
+   *{font-family:'consolas'}
+</style>
 
 
