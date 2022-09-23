@@ -1,7 +1,7 @@
 <div id="header" align="center">
  <img src="https://media4.giphy.com/media/3o85xyGspig9UUbHc4/giphy.gif?cid=790b7611e835d53430a0ab12e7884e5849c4b4070102651c&rid=giphy.gif&ct=g" width="150">
  <div id="badges">
- <h1 style="font-family: 'Lucida Console';"><b>Hi, there! I'm Jayzel. 🐱<b></h1>
+ <h1><b>Hi, there! I'm Jayzel. 🐱<b></h1>
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Badge"/>
   </a>
@@ -14,9 +14,9 @@
 </div>
  
  <div align="center">
-  <img src="https://64.media.tumblr.com/2aeb16c07c74d74e893287035fc30bb0/tumblr_pauzs2OHH01tes331o2_640.gifv" width="600" height="300"/>
+  <img src="https://64.media.tumblr.com/2aeb16c07c74d74e893287035fc30bb0/tumblr_pauzs2OHH01tes331o2_640.gifv" width="400" height="200"/>
 </div>
- <h4><b>I am an aspiring Fullstack Developer and Web Designer <img src="https://media4.giphy.com/media/3o85xp1xCrNmTeKedi/giphy.gif?cid=ecf05e47b1uibra0hmm7fdme5l9penkhaqgwwi9xjygygea7&rid=giphy.gif&ct=g" width="30"></b></h4>
+ <h4>I am an aspiring Fullstack Developer and Web Designer <img src="https://media4.giphy.com/media/3o85xp1xCrNmTeKedi/giphy.gif?cid=ecf05e47b1uibra0hmm7fdme5l9penkhaqgwwi9xjygygea7&rid=giphy.gif&ct=g" width="30"></h4>
 
   <h5><i> 🌱 Currently learning React , Angular , and Spring. </i></h5>
 
@@ -50,9 +50,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jzlvibora&layout=compact&theme=tokyonight)](https://github.com/jzlvibora/github-readme-stats)
 </div>
-
- <style>
-   *{font-family:'consolas'}
-</style>
 
 
