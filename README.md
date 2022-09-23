@@ -16,9 +16,9 @@
  <div align="center">
   <img src="https://64.media.tumblr.com/2aeb16c07c74d74e893287035fc30bb0/tumblr_pauzs2OHH01tes331o2_640.gifv" width="600" height="300"/>
 </div>
- <h5><b>I am an aspiring Fullstack Developer and Web Designer <img src="https://media4.giphy.com/media/3o85xp1xCrNmTeKedi/giphy.gif?cid=ecf05e47b1uibra0hmm7fdme5l9penkhaqgwwi9xjygygea7&rid=giphy.gif&ct=g" width="30"></b></h5>
+ <h4><b>I am an aspiring Fullstack Developer and Web Designer <img src="https://media4.giphy.com/media/3o85xp1xCrNmTeKedi/giphy.gif?cid=ecf05e47b1uibra0hmm7fdme5l9penkhaqgwwi9xjygygea7&rid=giphy.gif&ct=g" width="30"></b></h4>
 
-### 🌱 Currently learning React , Angular , and Spring.
+  <h5><i> 🌱 Currently learning React , Angular , and Spring. </i></h5>
 
 <hr>
 
