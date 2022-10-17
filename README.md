@@ -29,13 +29,18 @@
  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5 Badge"/>
  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 Badge"/>
  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"  alt="JS Badge"/>
+ <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"  alt="TS Badge"/>
  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"  alt="Angular Badge"/>
- <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"  alt="React Badge"/>
- <img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java&logoColor=white"  alt="Java Badge"/>
+ <img src="https://img.shields.io/badge/React-dark-blue?style=for-the-badge&logo=react&logoColor=white"  alt="React Badge"/>
+ <img src="https://img.shields.io/badge/Java-light-blue?style=for-the-badge&logo=java&logoColor=white"  alt="Java Badge"/>
  <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"  alt="Spring Badge"/>
+ <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=spring&logoColor=white"  alt="MySQL Badge"/>
+ <img src="https://img.shields.io/badge/Git-dark-orange?style=for-the-badge&logo=git&logoColor=white"  alt="Git Badge"/>
+ <img src="https://img.shields.io/badge/Gitlab-light-orange?style=for-the-badge&logo=gitlab&logoColor=white"  alt="Gitlab Badge"/>
+ <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"  alt="Gitlab Badge"/>
  
  
- <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="Material UI" alt="Angular" width="35" height="40"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -45,7 +50,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="50"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="50"/>&nbsp;
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="50"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="50"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="50"/>&nbsp; -->
 </div>
 
 <hr>
