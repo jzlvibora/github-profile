@@ -14,6 +14,7 @@
 </div>
  
  <div align="center">
+  
   <img src="https://64.media.tumblr.com/2aeb16c07c74d74e893287035fc30bb0/tumblr_pauzs2OHH01tes331o2_640.gifv" width="500" height="250"/>
 </div>
  <h4>I am an aspiring Fullstack Developer and Web Designer <img src="https://media4.giphy.com/media/3o85xp1xCrNmTeKedi/giphy.gif?cid=ecf05e47b1uibra0hmm7fdme5l9penkhaqgwwi9xjygygea7&rid=giphy.gif&ct=g" width="30"></h4>
@@ -25,6 +26,7 @@
 ### <b>🔨 Languages and Tools <b> :
 
 <div>
+ <img src="https://img.shields.io/badge/Angular-blue?style=for-the-badge&logo=angular&logoColor=white"  alt="LinkedIn Badge"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" title="Material UI" alt="Angular" width="35" height="40"/>&nbsp;
