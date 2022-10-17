@@ -32,12 +32,12 @@
  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"  alt="TS Badge"/>
  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"  alt="Angular Badge"/>
  <img src="https://img.shields.io/badge/React-royalblue?style=for-the-badge&logo=react&logoColor=white"  alt="React Badge"/>
- <img src="https://img.shields.io/badge/Java-skyblue?style=for-the-badge&logo=java&logoColor=white"  alt="Java Badge"/>
+ <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java8&logoColor=white"  alt="Java Badge"/>
  <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"  alt="Spring Badge"/>
  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=spring&logoColor=white"  alt="MySQL Badge"/>
  <img src="https://img.shields.io/badge/Git-fuchsia?style=for-the-badge&logo=git&logoColor=white"  alt="Git Badge"/>
- <img src="https://img.shields.io/badge/Gitlab-pumpkin?style=for-the-badge&logo=gitlab&logoColor=white"  alt="Gitlab Badge"/>
- <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"  alt="Gitlab Badge"/>
+ <img src="https://img.shields.io/badge/Gitlab-carrot?style=for-the-badge&logo=gitlab&logoColor=white"  alt="Gitlab Badge"/>
+ <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white"  alt="Gitlab Badge"/>
  
  
 <!--  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
