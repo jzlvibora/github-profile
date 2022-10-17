@@ -31,7 +31,7 @@
  <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"  alt="JS Badge"/>
  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"  alt="TS Badge"/>
  <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"  alt="Angular Badge"/>
- <img src="https://img.shields.io/badge/React-lightblue?style=for-the-badge&logo=react&logoColor=white"  alt="React Badge"/>
+ <img src="https://img.shields.io/badge/React-skyblue?style=for-the-badge&logo=react&logoColor=white"  alt="React Badge"/>
  <br>
  <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java8&logoColor=white"  alt="Java Badge"/>
  <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"  alt="Spring Badge"/>
