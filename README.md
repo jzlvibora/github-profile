@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://media4.giphy.com/media/3o85xyGspig9UUbHc4/giphy.gif?cid=790b7611e835d53430a0ab12e7884e5849c4b4070102651c&rid=giphy.gif&ct=g" width="150">
+<!--  <img src="https://media4.giphy.com/media/3o85xyGspig9UUbHc4/giphy.gif?cid=790b7611e835d53430a0ab12e7884e5849c4b4070102651c&rid=giphy.gif&ct=g" width="150"> -->
  <div id="badges">
  <h1><b>Hi, there! I'm Jayzel. 🐱<b></h1>
   <a href="your-linkedin-URL">
