@@ -17,7 +17,7 @@
   
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21mZGYycHExcGtmcXJhd3dkMzh1dTVrbzZzdm93cmoxYTVwczhmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lzX8c7wVyGa9trsXI7/giphy.gif" width="500" height="250"/>
 </div>
- <h4>I am a Web Developer<img src="https://media4.giphy.com/media/3o85xp1xCrNmTeKedi/giphy.gif?cid=ecf05e47b1uibra0hmm7fdme5l9penkhaqgwwi9xjygygea7&rid=giphy.gif&ct=g" width="30"></h4>
+ <h4>I am a Software Engineer<img src="https://media4.giphy.com/media/3o85xp1xCrNmTeKedi/giphy.gif?cid=ecf05e47b1uibra0hmm7fdme5l9penkhaqgwwi9xjygygea7&rid=giphy.gif&ct=g" width="30"></h4>
 
   <h5><i> 🌱 Currently learning React , Angular , Spring and Apigee. </i></h5>
 
