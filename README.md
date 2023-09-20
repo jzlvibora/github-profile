@@ -2,7 +2,7 @@
 <!--  <img src="https://media4.giphy.com/media/3o85xyGspig9UUbHc4/giphy.gif?cid=790b7611e835d53430a0ab12e7884e5849c4b4070102651c&rid=giphy.gif&ct=g" width="150"> -->
  <div id="badges">
  <h1><b>Hi there! I'm Jayzel. 🐱<b></h1>
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/jayzel-ann-g-202aa8202/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Badge"/>
   </a>
   <a href="your-codepen-URL">
