@@ -17,19 +17,19 @@
 ### <b> Languages and Tools <b> :
 
 <div>
- <img src="https://img.shields.io/badge/HTML5-coral?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5 Badge"/>
- <img src="https://img.shields.io/badge/CSS3-coral?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 Badge"/>
- <img src="https://img.shields.io/badge/Javascript-coral?style=for-the-badge&logo=javascript&logoColor=white"  alt="JS Badge"/>
- <img src="https://img.shields.io/badge/Typescript-coral?style=for-the-badge&logo=typescript&logoColor=white"  alt="TS Badge"/>
- <img src="https://img.shields.io/badge/Angular-coral?style=for-the-badge&logo=angular&logoColor=white"  alt="Angular Badge"/>
- <img src="https://img.shields.io/badge/React-coral?style=for-the-badge&logo=react&logoColor=white"  alt="React Badge"/>
+ <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5 Badge"/>
+ <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 Badge"/>
+ <img src="https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white"  alt="JS Badge"/>
+ <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"  alt="TS Badge"/>
+ <img src="https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white"  alt="Angular Badge"/>
+ <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white"  alt="React Badge"/>
  <br>
- <img src="https://img.shields.io/badge/Java-coral?style=for-the-badge&logo=java8&logoColor=white"  alt="Java Badge"/>
- <img src="https://img.shields.io/badge/Spring-coral?style=for-the-badge&logo=spring&logoColor=white"  alt="Spring Badge"/>
- <img src="https://img.shields.io/badge/MySQL-coral?style=for-the-badge&logo=spring&logoColor=white"  alt="MySQL Badge"/>
- <img src="https://img.shields.io/badge/Git-coral?style=for-the-badge&logo=git&logoColor=white"  alt="Git Badge"/>
- <img src="https://img.shields.io/badge/Gitlab-coral?style=for-the-badge&logo=gitlab&logoColor=white"  alt="Gitlab Badge"/>
- <img src="https://img.shields.io/badge/Github-coral?style=for-the-badge&logo=github&logoColor=white"  alt="Github Badge"/>
+ <img src="https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java8&logoColor=white"  alt="Java Badge"/>
+ <img src="https://img.shields.io/badge/Spring-green?style=for-the-badge&logo=spring&logoColor=white"  alt="Spring Badge"/>
+ <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=spring&logoColor=white"  alt="MySQL Badge"/>
+ <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white"  alt="Git Badge"/>
+ <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white"  alt="Gitlab Badge"/>
+ <img src="https://img.shields.io/badge/Github-gray?style=for-the-badge&logo=github&logoColor=white"  alt="Github Badge"/>
 </div>
 
 <hr>
