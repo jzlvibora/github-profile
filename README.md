@@ -17,7 +17,7 @@
 ### <b> Languages and Tools <b> :
 
 <div>
- <img src="https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5 Badge"/>
+ <img src="https://img.shields.io/badge/HTML5-#483248?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5 Badge"/>
  <img src="https://img.shields.io/badge/CSS3-gray?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3 Badge"/>
  <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript&logoColor=white"  alt="JS Badge"/>
  <img src="https://img.shields.io/badge/Typescript-gray?style=for-the-badge&logo=typescript&logoColor=white"  alt="TS Badge"/>
