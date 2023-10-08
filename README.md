@@ -12,13 +12,7 @@
     <img src="https://img.shields.io/badge/Behance-gray?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
- 
- <h4>I am a Software Engineer<img src="https://media4.giphy.com/media/3o85xp1xCrNmTeKedi/giphy.gif?cid=ecf05e47b1uibra0hmm7fdme5l9penkhaqgwwi9xjygygea7&rid=giphy.gif&ct=g" width="30"></h4>
-
-  <h5><i> 🌱 Currently learning React , Angular , Spring and Apigee. </i></h5>
-
-<hr>
-
+  
 ### <b>🔨 Languages and Tools <b> :
 
 <div>
