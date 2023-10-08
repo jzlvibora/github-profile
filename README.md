@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <!--  <img src="https://media4.giphy.com/media/3o85xyGspig9UUbHc4/giphy.gif?cid=790b7611e835d53430a0ab12e7884e5849c4b4070102651c&rid=giphy.gif&ct=g" width="150"> -->
- <div id="badges">
+<!--  <div id="badges">
  <h1><b>Hi there! I'm Jayzel. 🐱<b></h1>
   <a href="https://www.linkedin.com/in/jayzel-ann-g-202aa8202/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  alt="LinkedIn Badge"/>
@@ -12,18 +12,6 @@
     <img src="https://img.shields.io/badge/Behance-gray?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
   </a>
 </div>
- 
- <div align="center">
-  
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ21mZGYycHExcGtmcXJhd3dkMzh1dTVrbzZzdm93cmoxYTVwczhmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lzX8c7wVyGa9trsXI7/giphy.gif" width="500" height="250"/>
-</div>
- <h4>I am a Software Engineer<img src="https://media4.giphy.com/media/3o85xp1xCrNmTeKedi/giphy.gif?cid=ecf05e47b1uibra0hmm7fdme5l9penkhaqgwwi9xjygygea7&rid=giphy.gif&ct=g" width="30"></h4>
-
-  <h5><i> 🌱 Currently learning React , Angular , Spring and Apigee. </i></h5>
-
-<hr>
-
-### <b>🔨 Languages and Tools <b> :
 
 <div>
  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"  alt="HTML5 Badge"/>
